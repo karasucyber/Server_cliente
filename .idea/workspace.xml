@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="603f1dab-d337-4a3d-aff5-0a536bfbc797" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Project_cliente_server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_cliente_server/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_cliente_server/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_cliente_server/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_cliente_server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_cliente_server/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_cliente_server/src/main/webapp/index.jsp" afterDir="false" />
+    <list default="true" id="603f1dab-d337-4a3d-aff5-0a536bfbc797" name="Changes" comment="erro">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,10 +78,34 @@
       <workItem from="1694773598236" duration="57000" />
       <workItem from="1694773693081" duration="56000" />
       <workItem from="1694773751220" duration="24000" />
+      <workItem from="1694773777502" duration="136000" />
+      <workItem from="1694773915640" duration="12000" />
+      <workItem from="1694773929857" duration="80000" />
     </task>
+    <task id="LOCAL-00001" summary="erro">
+      <option name="closed" value="true" />
+      <created>1694773883201</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694773883201</updated>
+    </task>
+    <task id="LOCAL-00002" summary="erro">
+      <option name="closed" value="true" />
+      <created>1694773891051</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694773891051</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="erro" />
+    <option name="LAST_COMMIT_MESSAGE" value="erro" />
   </component>
 </project>
