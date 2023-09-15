@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="603f1dab-d337-4a3d-aff5-0a536bfbc797" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Project_cliente_server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_cliente_server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_cliente_server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_cliente_server/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_cliente_server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_cliente_server/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_cliente_server/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Project_cliente_server" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2Uohvr4i5S7bodW4bqZlk2p9fnf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/aquillae/IdeaProjects/Server_cliente&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Server_cliente" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Server_cliente" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="603f1dab-d337-4a3d-aff5-0a536bfbc797" name="Changes" comment="" />
+      <created>1693612073886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693612073886</updated>
+      <workItem from="1693612074930" duration="4000" />
+      <workItem from="1693637476233" duration="632000" />
+      <workItem from="1693658646169" duration="2000" />
+      <workItem from="1693682558289" duration="599000" />
+      <workItem from="1693686681781" duration="158000" />
+      <workItem from="1694536336543" duration="168000" />
+      <workItem from="1694621465347" duration="15000" />
+      <workItem from="1694709677300" duration="3000" />
+      <workItem from="1694744389655" duration="3000" />
+      <workItem from="1694772599703" duration="3000" />
+      <workItem from="1694773369638" duration="2000" />
+      <workItem from="1694773598236" duration="57000" />
+      <workItem from="1694773693081" duration="56000" />
+      <workItem from="1694773751220" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
